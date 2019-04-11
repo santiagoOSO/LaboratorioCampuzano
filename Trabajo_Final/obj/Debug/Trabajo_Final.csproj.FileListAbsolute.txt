@@ -1,0 +1,13 @@
+c:\users\estudiante.sala235-pc12\documents\visual studio 2013\Projects\Trabajo_Final\Trabajo_Final\bin\Debug\Trabajo_Final.exe.config
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Trabajo_Final.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Trabajo_Final.MDIPaciente.resources
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Trabajo_Final.Paciente.resources
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Trabajo_Final.Properties.Resources.resources
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Trabajo_Final.csproj.GenerateResource.Cache
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\bin\Debug\Trabajo_Final.exe
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\bin\Debug\Trabajo_Final.pdb
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Trabajo_Final.exe
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Trabajo_Final.pdb
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\bin\Debug\Entidades.dll
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\bin\Debug\Entidades.pdb
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Sucursales.Sucursales.resources
