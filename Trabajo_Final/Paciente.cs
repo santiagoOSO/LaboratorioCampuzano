@@ -83,7 +83,7 @@ namespace Trabajo_Final
                 erpMensaje.SetError(txtPrimerNombre, null);
             }
 
-            //SEGUNDO NOMBRE
+            /*/SEGUNDO NOMBRE
             if (string.IsNullOrEmpty(txtSegundoNombre.Text.Trim()))
             {
                 erpMensaje.SetError(txtSegundoNombre, "Por favor ingrese el Segundo Nombre");
@@ -93,6 +93,7 @@ namespace Trabajo_Final
             {
                 erpMensaje.SetError(txtSegundoNombre, null);
             }
+            */
 
             //PRIMER APELLIDO
             if (string.IsNullOrEmpty(txtPrimerApellido.Text.Trim()))
@@ -105,7 +106,7 @@ namespace Trabajo_Final
                 erpMensaje.SetError(txtPrimerApellido, null);
             }
 
-            //SEGUNDO APELLIDO
+            /*/SEGUNDO APELLIDO
             if (string.IsNullOrEmpty(txtSegundoApellido.Text.Trim()))
             {
                 erpMensaje.SetError(txtSegundoApellido, "Por favor ingrese el Segundo apellido");
@@ -115,6 +116,7 @@ namespace Trabajo_Final
             {
                 erpMensaje.SetError(txtSegundoApellido, null);
             }
+            */
 
             //TIPO DOCUMENTO
             if (cboTipoDocumento.SelectedItem == null)
@@ -194,7 +196,7 @@ namespace Trabajo_Final
                 erpMensaje.SetError(txtBarrio, null);
             }
 
-            //TELEFONO
+            /*/TELEFONO
             if (string.IsNullOrEmpty(txtTelefono.Text.Trim()))
             {
                 erpMensaje.SetError(txtTelefono, "Por favor ingrese el teléfono");
@@ -204,6 +206,7 @@ namespace Trabajo_Final
             {
                 erpMensaje.SetError(txtTelefono, null);
             }
+            */
 
             //OCUPACION 
             if (string.IsNullOrEmpty(txtOcupacion.Text.Trim()))
@@ -249,7 +252,7 @@ namespace Trabajo_Final
                 erpMensaje.SetError(cboRegimen, null);
             }
 
-            //CORREO ELECTRONICO
+            /*/CORREO ELECTRONICO
             if (string.IsNullOrEmpty(txtCorreoElectronico.Text.Trim()))
             {
                 erpMensaje.SetError(txtCorreoElectronico, "Por favor ingrese el correo electrónico");
@@ -259,6 +262,7 @@ namespace Trabajo_Final
             {
                 erpMensaje.SetError(txtCorreoElectronico, null);
             }
+            */
 
             return true;
         }
@@ -273,5 +277,17 @@ namespace Trabajo_Final
 
 
         }
+
+        private void Paciente_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+
     }
 }

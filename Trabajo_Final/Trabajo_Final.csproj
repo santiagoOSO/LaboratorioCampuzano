@@ -44,6 +44,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Examen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examen.Designer.cs">
+      <DependentUpon>Examen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresarSistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresarSistema.Designer.cs">
+      <DependentUpon>IngresarSistema.cs</DependentUpon>
+    </Compile>
     <Compile Include="Sucursales.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +76,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Examen.resx">
+      <DependentUpon>Examen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresarSistema.resx">
+      <DependentUpon>IngresarSistema.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Sucursales.resx">
       <DependentUpon>Sucursales.cs</DependentUpon>
     </EmbeddedResource>
